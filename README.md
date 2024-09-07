@@ -1,6 +1,7 @@
 # ThreatIdentification
-Conducted a comprehensive text series analysis focusing on historical cyber attack patterns; findings informed
-strategic adjustments in security protocols, resulting in a 30% reduction in successful phishing attempts.
+Developed a comprehensive time series analysis to understand and forecast the frequency of cyber attacks on a company, involving data preprocessing, EDA, and ARIMA modeling. 
+
+The project aimed to identify trends and make accurate predictions to proactively address future threats.
 
 Analyzed historical cyber incident data through Tableau visualizations, identifying patterns and trends that
 informed prevention strategies; this analysis decreased the average time to address incidents by 25% within a
